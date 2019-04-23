@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"p",
+				"pilih"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"boots",
+				"bootstrap"
+			],
+			[
+				"Ma",
+				"Mahasiswa"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"maha",
+				"Mahasiswa_model"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Maha",
+				"Mahasiswa"
+			],
+			[
+				"btn",
+				"btn-sm"
+			],
+			[
+				"Mahas",
+				"Mahasiswa_model"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"isi",
+				"isi_tabel"
+			],
+			[
+				"boo",
+				"bootstrap"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"txtko",
+				"txtkolom_b"
+			],
+			[
+				"txtkolo",
+				"txtmkolom_a"
+			],
+			[
+				"txth",
+				"txtharga_mobil"
+			],
+			[
+				"txt",
+				"txtmerk_mobil"
+			],
+			[
+				"m",
+				"txtmerk_mobil"
+			],
+			[
+				"ko",
+				"kode_mobil"
+			],
+			[
+				"M",
+				"MERK"
+			],
+			[
+				"txtmerk",
+				"txtmerk_mobil"
+			],
+			[
+				"e",
+				"exequery"
+			],
+			[
+				"A",
+				"Anda"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"bi",
+				"bil2"
+			],
+			[
+				"bilanga",
+				"bilangan2"
+			],
+			[
+				"bil",
+				"bil1"
+			],
+			[
+				"bilangan",
+				"bilangan1"
+			],
+			[
+				"hasi",
+				"hasilPenjumlahan"
+			],
+			[
+				"b",
+				"bilangan2"
+			],
+			[
+				"ret",
+				"return2"
+			],
+			[
+				"re",
+				"return2"
+			],
+			[
+				"retur",
+				"return1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"LIST",
+				"list-group-item"
+			],
+			[
+				"C",
+				"class\tAttr"
+			],
+			[
+				"lis",
+				"list-group"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"co",
+				"col-md-3"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"ty",
+				"type\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"fom",
+				"form-control"
+			],
+			[
+				"te",
+				"textPassword"
+			],
+			[
+				"hr",
+				"hr\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"teb",
+				"tebal"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bo",
+				"border\tAttr"
+			],
+			[
+				"s",
+				"start\tAttr"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/1710320014/P1/format_text.html",
+		"/C/xampp/htdocs/1710320014/P1/Heading.html",
+		"/C/xampp/htdocs/1710320014/P1/hello_world.html",
+		"/C/xampp/htdocs/1710320014/P1/list.html",
+		"/C/xampp/htdocs/1710320014/P1/paragraf.html",
+		"/C/xampp/htdocs/1710320014/P4/form.html",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/1710320014/P3/video.html",
+		"/C/xampp/htdocs/1710320014/P3/image.html",
+		"/C/xampp/htdocs/1710320014/P3/audio.html",
+		"/C/xampp/htdocs/webD3TI/Pertemuan2/tabel.html",
+		"/C/xampp/htdocs/1710320014/P3/audio",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_template.php",
+		"/C/xampp/htdocs/web-ii-mi/application/config/autoload.php",
+		"/C/xampp/htdocs/web-ii-mi/application/config/database.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/admin/Home.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/v_login.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/admin/Pengumuman.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/admin/Mahasiswa.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_dosen.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/admin/Dosen.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_dosen_edit.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_dosen_tambah.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_mahasiswa_tambah.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/Login.php",
+		"/C/xampp/htdocs/web-ii-mi/application/models/Mahasiswa_model.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_mahasiswa_edit.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_mahasiswa.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/admin/Login.php",
+		"/C/xampp/htdocs/web_ii_mi/application/views/admin/v_mahasiswa.php",
+		"/C/xampp/htdocs/web_ii_mi/application/models/Mahasiswa_model.php",
+		"/C/xampp/htdocs/web_ii_mi/application/controllers/admin/Mahasiswa.php",
+		"/C/xampp/htdocs/web_ii_mi/application/views/admin/v_tambah_dosen.php",
+		"/C/xampp/htdocs/web_ii_mi/application/controllers/admin/Dosen.php",
+		"/C/xampp/htdocs/web_ii_mi/application/models/Dosen_model.php",
+		"/C/xampp/htdocs/web_ii_mi/application/config/database.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/Mahasiswa.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_pengumuman.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_tambah_pengumuman.php",
+		"/C/xampp/htdocs/web-ii-mi/application/models/Pengumuman_model.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_edit_pengumuman.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/admin/pengumuman.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/v_pengumuman.php",
+		"/C/xampp/htdocs/web-ii-mi/application/models/pengumuman_model.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_coba.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/admin/v_index.php",
+		"/C/xampp/htdocs/web-ii-mi/application/views/v_detail.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/Coba.php",
+		"/C/xampp/htdocs/1610520077/p3/audio.html",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/Pengumuman.php",
+		"/C/xampp/htdocs/1610520077/p3/form.html",
+		"/C/xampp/htdocs/1610520077/p3/iframe.html",
+		"/C/xampp/htdocs/1610520077/p3/video.html",
+		"/C/xampp/htdocs/web-ii-mi/application/controllers/Dosen.php",
+		"/C/xampp/htdocs/web-ii-mi/application/config/config.php",
+		"/C/xampp/htdocs/web-ii-mi/assets/jquery.min.js",
+		"/C/xampp/htdocs/UAS/ubah.php",
+		"/C/xampp/htdocs/UAS/index.php",
+		"/C/xampp/htdocs/UAS/koneksi.php",
+		"/C/xampp/htdocs/UAS/tambah.php",
+		"/C/xampp/htdocs/D3MI/UAS/ubah.php",
+		"/C/xampp/htdocs/D3MI/UAS_Febri/koneksi.php",
+		"/C/xampp/htdocs/D3MI/UAS/delete.php",
+		"/C/xampp/htdocs/D3MI/UAS/tambah.php",
+		"/C/xampp/htdocs/D3MI/UAS_Febri/ubah.php",
+		"/C/xampp/htdocs/D3MI/UAS_Febri/index.php",
+		"/C/xampp/htdocs/D3MI/UAS_Febri/tambah.php",
+		"/C/xampp/htdocs/D3MI/1700310009/setting.php",
+		"/C/xampp/htdocs/D3MI/UAS/koneksi.php",
+		"/C/xampp/htdocs/D3MI/UAS/index.php",
+		"/C/xampp/htdocs/D3MI/1700310009/update.php",
+		"/C/xampp/htdocs/D3MI/1700310009/delete.php",
+		"/C/xampp/htdocs/D3MI/1700310009/create.php",
+		"/C/xampp/htdocs/D3MI/nim-1/nim/koneksi.php",
+		"/C/xampp/htdocs/D3MI/nim-1/nim/index.php",
+		"/C/xampp/htdocs/D3MI/nim-1/nim/SOAL UAS D3MI.pdf",
+		"/C/xampp/htdocs/D3MI/1700330026/index",
+		"/C/xampp/htdocs/D3MI/1700330026/koneksi.php",
+		"/C/xampp/htdocs/D3MI/1700330026/create.php",
+		"/C/xampp/htdocs/D3MI/1700330026/delete.php",
+		"/C/xampp/htdocs/D3MI/KisiUAS/index.php",
+		"/C/xampp/htdocs/D3MI/1700330026/index.php",
+		"/C/xampp/htdocs/D3MI/1700330026/setting.php",
+		"/C/xampp/htdocs/D3MI/projectD3MI/tambahMahasiswa.php",
+		"/C/xampp/htdocs/D3MI/projectD3MI/koneksi.php",
+		"/C/xampp/htdocs/D3MI/projectD3MI/tampilDataMahasiswa.php",
+		"/C/xampp/htdocs/D3MI/projectD3MI/index.php",
+		"/C/xampp/htdocs/D3MI/projectD3MI/hapusMahasiswa.php",
+		"/C/xampp/htdocs/D3MI/KisiUAS/hapusMobil.php",
+		"/C/xampp/htdocs/D3MI/KisiUAS/koneksi.php",
+		"/C/xampp/htdocs/D3MI/KisiUAS/tambahMobil.php",
+		"/C/xampp/htdocs/D3MI/KisiUAS/tampilDataMobil.php",
+		"/C/xampp/htdocs/D3MI/projectD3MI/tampilDataMatakuliah.php",
+		"/C/xampp/htdocs/D3MI/ProjectKisi/koneksi.php",
+		"/C/xampp/htdocs/D3MI/Pertemuan9/Array.php",
+		"/C/xampp/htdocs/projekD3MI/koneksi.php",
+		"/C/xampp/htdocs/D3MI/Pertemuan9/Perulangan.php",
+		"/C/xampp/htdocs/D3MI/projekD3MI.exe",
+		"/C/xampp/htdocs/D3MI/pertemuan3/contohhtml.html",
+		"/C/xampp/htdocs/D3MI/feby/tugasWEB.php",
+		"/C/xampp/htdocs/D3MI/pertemuan8PHP/latihan.php",
+		"/C/xampp/htdocs/D3MI/EriaRJ_1700330030/TugasWeb.php",
+		"/C/xampp/htdocs/D3MI/feby/tugas.php",
+		"/C/xampp/htdocs/D3MI/pertemuan8PHP/BelajarPHP.php",
+		"/C/xampp/htdocs/D3MI/pertemuan7javascript/index.html",
+		"/C/xampp/htdocs/D3MI/pertemuan7javascript/js1.js",
+		"/C/xampp/htdocs/KisiUTS/percobaan.html",
+		"/C/xampp/htdocs/1700330026_Feby/Dashboard.html",
+		"/C/Users/hp/Desktop/1610330019_Dody/SOAL PRAKTIKUM UTS D3TI.pdf",
+		"/C/Users/hp/Desktop/1610330019_Dody/form.html",
+		"/C/xampp/htdocs/KisiUTS/form.html",
+		"/C/xampp/htdocs/kisiKisiUTS/form.html",
+		"/C/xampp/htdocs/kisiKisiUTS/percobaanUTS.html",
+		"/C/Users/hp/Desktop/1610330019_Dody/home.html",
+		"/C/xampp/htdocs/KisiUTS/PercobaanUTS.html",
+		"/C/xampp/htdocs/D3MI/Pertemuan5/navbar-fixed-top.css",
+		"/C/xampp/htdocs/D3MI/Pertemuan4css/contohhtml.html",
+		"/C/xampp/htdocs/D3MI/Pertemuan4css/latihancss.html",
+		"/C/xampp/htdocs/d3ti/is.jpg",
+		"/C/xampp/htdocs/D3MI/Pertemuan4css/htmlbootsrap.html",
+		"/C/xampp/htdocs/d3ti/pertemuan4.html",
+		"/C/xampp/htdocs/d3ti/coba.css",
+		"/C/xampp/htdocs/d3ti/index.html",
+		"/C/xampp/htdocs/GG/ok.html",
+		"/C/xampp/htdocs/D3MI/review.html",
+		"/C/xampp/htdocs/D3MI/Pertemuan2/review.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "latihan_form.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
